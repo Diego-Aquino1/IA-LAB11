@@ -1,0 +1,271 @@
+Pesos iniciales: [ 0.12 -0.41 -0.25]
+Epoca 1
+--------------------
+Dato: [0 0]
+Salida esperada: 0
+Salida estimada: 1
+Error: -1
+Nuevos pesos: [-0.03 -0.41 -0.25]
+
+Dato: [0 1]
+Salida esperada: 0
+Salida estimada: 0
+Error: 0
+Nuevos pesos: [-0.03 -0.41 -0.25]
+
+Dato: [1 0]
+Salida esperada: 0
+Salida estimada: 0
+Error: 0
+Nuevos pesos: [-0.03 -0.41 -0.25]
+
+Dato: [1 1]
+Salida esperada: 1
+Salida estimada: 0
+Error: 1
+Nuevos pesos: [ 0.12 -0.26 -0.1 ]
+
+
+Epoca 2
+--------------------
+Dato: [0 0]
+Salida esperada: 0
+Salida estimada: 1
+Error: -1
+Nuevos pesos: [-0.03 -0.26 -0.1 ]
+
+Dato: [0 1]
+Salida esperada: 0
+Salida estimada: 0
+Error: 0
+Nuevos pesos: [-0.03 -0.26 -0.1 ]
+
+Dato: [1 0]
+Salida esperada: 0
+Salida estimada: 0
+Error: 0
+Nuevos pesos: [-0.03 -0.26 -0.1 ]
+
+Dato: [1 1]
+Salida esperada: 1
+Salida estimada: 0
+Error: 1
+Nuevos pesos: [ 0.12 -0.11  0.05]
+
+
+Epoca 3
+--------------------
+Dato: [0 0]
+Salida esperada: 0
+Salida estimada: 1
+Error: -1
+Nuevos pesos: [-0.03 -0.11  0.05]
+
+Dato: [0 1]
+Salida esperada: 0
+Salida estimada: 1
+Error: -1
+Nuevos pesos: [-0.18 -0.11 -0.1 ]
+
+Dato: [1 0]
+Salida esperada: 0
+Salida estimada: 0
+Error: 0
+Nuevos pesos: [-0.18 -0.11 -0.1 ]
+
+Dato: [1 1]
+Salida esperada: 1
+Salida estimada: 0
+Error: 1
+Nuevos pesos: [-0.03  0.04  0.05]
+
+
+Epoca 4
+--------------------
+Dato: [0 0]
+Salida esperada: 0
+Salida estimada: 0
+Error: 0
+Nuevos pesos: [-0.03  0.04  0.05]
+
+Dato: [0 1]
+Salida esperada: 0
+Salida estimada: 1
+Error: -1
+Nuevos pesos: [-0.18  0.04 -0.1 ]
+
+Dato: [1 0]
+Salida esperada: 0
+Salida estimada: 0
+Error: 0
+Nuevos pesos: [-0.18  0.04 -0.1 ]
+
+Dato: [1 1]
+Salida esperada: 1
+Salida estimada: 0
+Error: 1
+Nuevos pesos: [-0.03  0.19  0.05]
+
+
+Epoca 5
+--------------------
+Dato: [0 0]
+Salida esperada: 0
+Salida estimada: 0
+Error: 0
+Nuevos pesos: [-0.03  0.19  0.05]
+
+Dato: [0 1]
+Salida esperada: 0
+Salida estimada: 1
+Error: -1
+Nuevos pesos: [-0.18  0.19 -0.1 ]
+
+Dato: [1 0]
+Salida esperada: 0
+Salida estimada: 1
+Error: -1
+Nuevos pesos: [-0.33  0.04 -0.1 ]
+
+Dato: [1 1]
+Salida esperada: 1
+Salida estimada: 0
+Error: 1
+Nuevos pesos: [-0.18  0.19  0.05]
+
+
+Epoca 6
+--------------------
+Dato: [0 0]
+Salida esperada: 0
+Salida estimada: 0
+Error: 0
+Nuevos pesos: [-0.18  0.19  0.05]
+
+Dato: [0 1]
+Salida esperada: 0
+Salida estimada: 0
+Error: 0
+Nuevos pesos: [-0.18  0.19  0.05]
+
+Dato: [1 0]
+Salida esperada: 0
+Salida estimada: 1
+Error: -1
+Nuevos pesos: [-0.33  0.04  0.05]
+
+Dato: [1 1]
+Salida esperada: 1
+Salida estimada: 0
+Error: 1
+Nuevos pesos: [-0.18  0.19  0.2 ]
+
+
+Epoca 7
+--------------------
+Dato: [0 0]
+Salida esperada: 0
+Salida estimada: 0
+Error: 0
+Nuevos pesos: [-0.18  0.19  0.2 ]
+
+Dato: [0 1]
+Salida esperada: 0
+Salida estimada: 1
+Error: -1
+Nuevos pesos: [-0.33  0.19  0.05]
+
+Dato: [1 0]
+Salida esperada: 0
+Salida estimada: 0
+Error: 0
+Nuevos pesos: [-0.33  0.19  0.05]
+
+Dato: [1 1]
+Salida esperada: 1
+Salida estimada: 0
+Error: 1
+Nuevos pesos: [-0.18  0.34  0.2 ]
+
+
+Epoca 8
+--------------------
+Dato: [0 0]
+Salida esperada: 0
+Salida estimada: 0
+Error: 0
+Nuevos pesos: [-0.18  0.34  0.2 ]
+
+Dato: [0 1]
+Salida esperada: 0
+Salida estimada: 1
+Error: -1
+Nuevos pesos: [-0.33  0.34  0.05]
+
+Dato: [1 0]
+Salida esperada: 0
+Salida estimada: 1
+Error: -1
+Nuevos pesos: [-0.48  0.19  0.05]
+
+Dato: [1 1]
+Salida esperada: 1
+Salida estimada: 0
+Error: 1
+Nuevos pesos: [-0.33  0.34  0.2 ]
+
+
+Epoca 9
+--------------------
+Dato: [0 0]
+Salida esperada: 0
+Salida estimada: 0
+Error: 0
+Nuevos pesos: [-0.33  0.34  0.2 ]
+
+Dato: [0 1]
+Salida esperada: 0
+Salida estimada: 0
+Error: 0
+Nuevos pesos: [-0.33  0.34  0.2 ]
+
+Dato: [1 0]
+Salida esperada: 0
+Salida estimada: 1
+Error: -1
+Nuevos pesos: [-0.48  0.19  0.2 ]
+
+Dato: [1 1]
+Salida esperada: 1
+Salida estimada: 0
+Error: 1
+Nuevos pesos: [-0.33  0.34  0.35]
+
+
+Epoca 10
+--------------------
+Dato: [0 0]
+Salida esperada: 0
+Salida estimada: 0
+Error: 0
+Nuevos pesos: [-0.33  0.34  0.35]
+
+Dato: [0 1]
+Salida esperada: 0
+Salida estimada: 1
+Error: -1
+Nuevos pesos: [-0.48  0.34  0.2 ]
+
+Dato: [1 0]
+Salida esperada: 0
+Salida estimada: 0
+Error: 0
+Nuevos pesos: [-0.48  0.34  0.2 ]
+
+Dato: [1 1]
+Salida esperada: 1
+Salida estimada: 1
+Error: 0
+Nuevos pesos: [-0.48  0.34  0.2 ]
+
+
